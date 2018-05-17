@@ -1,1 +1,1 @@
-# eoh-app1
+# eoh-app
